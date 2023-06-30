@@ -25,11 +25,7 @@ The Dojo Blog Project is a web application that allows users to create, read, up
    npm install
    ```
 
-3. Configure the project:
-
-   - [Add instructions on configuring environment variables, if applicable]
-   - [Provide details on setting up the database, if required]
-   - [Include any additional configuration steps]
+3. Configure the project
 
 4. Run the application:
 
